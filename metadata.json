@@ -1,5 +1,5 @@
 {
-  "name": "SI SUPAK",
+  "name": "SI SUPER",
   "description": "Sistem Informasi Supervisi Akademik untuk Kepala Sekolah dan Pengawas sesuai Kurikulum Nasional terbaru",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
